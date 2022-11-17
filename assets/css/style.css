@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* <div> was changed to <nav> in the following three sections and 
+the HTML doc was edited to correspond with these changes */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -90,6 +92,8 @@ p {
     background-color: #2589bd;
 }
 
+/* The following six sections have been consolidated and the HTML document has 
+been edited so that multiple sections may share the same style */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
